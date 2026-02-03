@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\İş masası\Programs\ForEach\ForEach\bin\Debug\net8.0\ForEach.exe
+C:\Users\Admin\OneDrive\İş masası\Programs\ForEach\ForEach\bin\Debug\net8.0\ForEach.deps.json
+C:\Users\Admin\OneDrive\İş masası\Programs\ForEach\ForEach\bin\Debug\net8.0\ForEach.runtimeconfig.json
+C:\Users\Admin\OneDrive\İş masası\Programs\ForEach\ForEach\bin\Debug\net8.0\ForEach.dll
+C:\Users\Admin\OneDrive\İş masası\Programs\ForEach\ForEach\bin\Debug\net8.0\ForEach.pdb
+C:\Users\Admin\OneDrive\İş masası\Programs\ForEach\ForEach\obj\Debug\net8.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\İş masası\Programs\ForEach\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\İş masası\Programs\ForEach\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\İş masası\Programs\ForEach\ForEach\obj\Debug\net8.0\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\İş masası\Programs\ForEach\ForEach\obj\Debug\net8.0\ForEach.sourcelink.json
+C:\Users\Admin\OneDrive\İş masası\Programs\ForEach\ForEach\obj\Debug\net8.0\ForEach.dll
+C:\Users\Admin\OneDrive\İş masası\Programs\ForEach\ForEach\obj\Debug\net8.0\refint\ForEach.dll
+C:\Users\Admin\OneDrive\İş masası\Programs\ForEach\ForEach\obj\Debug\net8.0\ForEach.pdb
+C:\Users\Admin\OneDrive\İş masası\Programs\ForEach\ForEach\obj\Debug\net8.0\ForEach.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\İş masası\Programs\ForEach\ForEach\obj\Debug\net8.0\ref\ForEach.dll
