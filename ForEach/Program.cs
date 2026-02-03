@@ -27,15 +27,62 @@
 		#endregion
 
 		#region region3
-		string word = "kertenkele";
-		char letter = word[0];
-		int count = default;
+		//string word = "kertenkele";
+		//char letter = ' ';
+		//int count;
+		//foreach(char c in word)
+		//{
+		//	count = 0;
+		//	letter = c;
+		//	foreach (char ch in word)
+		//	{
+		//		if (letter == ch)
+		//			count++;
+		//	}
+		//	if (count == 1)
+		//		break;
+		//}
+		//Console.WriteLine(letter);
 		#endregion
 
 		#region region4
+		
+
+
+
+
+				
+		
+		
+
+
+
+
+
+		
 		#endregion
 
 		#region region5
+		//string word = "kertenkele";
+		//char letter = ' ';
+		//int count = default;
+		//int newCount;
+		//foreach (char c in word)
+		//{
+		//	newCount = 0;
+		//	foreach (char ch in word)
+		//	{
+		//		if (c == ch)
+		//			newCount++;
+		//	}
+
+		//	if (newCount > count)
+		//	{
+		//		letter = c;
+		//		count = newCount;
+		//	}
+		//}
+		//Console.WriteLine($"{letter} {count} defe tekrarlanib.");
 		#endregion
 
 		#region region6
@@ -153,24 +200,24 @@
 		#endregion
 
 		#region region13
-		Console.WriteLine("Tehsil novunu daxil edin: (programming, system, design)");
-		string tehsilNovu = Console.ReadLine();
-		switch (tehsilNovu)
-		{
-			case "programming":
-				Console.WriteLine($"{tehsilNovu}: 400 saat.");
-				break;
-			case "system":
-				Console.WriteLine($"{tehsilNovu}: 200 saat.");
-				break;
-			case "design":
-				Console.WriteLine($"{tehsilNovu}: 250 saat.");
-				break;
-			default:
-				Console.WriteLine("Tehsil novu yanlisdir.");
-				break;
-		}
+		//Console.WriteLine("Tehsil novunu daxil edin: (programming, system, design)");
+		//string tehsilNovu = Console.ReadLine();
+		//switch (tehsilNovu)
+		//{
+		//	case "programming":
+		//		Console.WriteLine($"{tehsilNovu}: 400 saat.");
+		//		break;
+		//	case "system":
+		//		Console.WriteLine($"{tehsilNovu}: 200 saat.");
+		//		break;
+		//	case "design":
+		//		Console.WriteLine($"{tehsilNovu}: 250 saat.");
+		//		break;
+		//	default:
+		//		Console.WriteLine("Tehsil novu yanlisdir.");
+		//		break;
+		//}
 		#endregion
 
 	}
-	}
+}
