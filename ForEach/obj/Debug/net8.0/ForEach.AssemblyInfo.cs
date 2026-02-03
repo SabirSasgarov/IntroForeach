@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ForEach")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+281d93b361e18e580267dbf35802fd689c26c6ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+808eb9137295c609294e9be1df10c837e01d61fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ForEach")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ForEach")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
